@@ -48,7 +48,7 @@ Taxonomic assignment is tricky, so should we give guidelines to include further 
 > We should make an action plan based on deliverables   
 
 **Pascal**
-> Problems fulfilling the task of inferring functions, as said in task 2.3 
+> Problems regarding the fulfillment of the task for inferring functions, as marked in task 2.3 from the WP2. 
 
 **Daniel**
 > Attribution of ecological roles instead of functions... 
