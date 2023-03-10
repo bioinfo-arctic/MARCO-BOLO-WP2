@@ -1,8 +1,19 @@
 
   # Minutes of Meetings
 
+### (Next) Online Meeting on 27.03.2023 at 15:30 
+
 ### (Next) Online Meeting on 07.03.2023 at 15:30 
-Participants: 
+### Participants: Daniel Morais, Kim Praebel, Owen Wangensteen, Chloe Figueroa, Chris Bowler, Dan Lear, Domenico D'Alelio SZN, Isabelle Rombouts, Iveta Matejusova, Michael Cunliffe, Pascal Hablutzel, Saara Suominen
+
+---
+
+**Kim**
+Greets and thanks the participants that were able to join the meeting. Explains the exit of Owen and thanks him for still being able to help and give guidance. Introduces the WP2 online meeting for organization of the work before the in person kick-off meeting in Paris. He won't be able to join because of a teaching expedition with students. Calls for a round of introductions and announces that Daniel will take the lead on the WP2 as he got extra teaching duties.
+
+**Owen**
+Asks who will be in Paris. 
+****
 
  
 ### Online Meeting on 24.02.2023 at 14:00 
