@@ -1,7 +1,7 @@
 
   # Minutes of Meetings
 
-### (Next) Online Meeting on 27.03.2023 at 15:30 
+### (Next) Online Meeting on 27.03.2023 at 14:00 
 
 ### Online Meeting on 07.03.2023 at 15:30 
 ### Participants: Daniel Morais, Kim Praebel, Owen Wangensteen, Chloe Figueroa, Chris Bowler, Dan Lear, Domenico D'Alelio SZN, Isabelle Rombouts, Iveta Matejusova, Michael Cunliffe, Pascal Hablutzel, Saara Suominen
