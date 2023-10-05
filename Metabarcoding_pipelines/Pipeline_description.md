@@ -32,10 +32,10 @@ MGNIFY
 
 ### Available Pipelines
 ARMS pipeline  
-PacMAN
-Qiime2
-Usearch 11
-GreenGenes2
+PacMAN  
+Qiime2  
+Usearch 11  
+GreenGenes2  
 
 ### Taxonomy assignment algorithms
 Tiara - Deep learning/based classification system for euk sequences  
@@ -43,23 +43,23 @@ https://academic.oup.com/bioinformatics/article/38/2/344/6375939
 
 Basic Local Alignemnt Search Tool (BLAST)  
 Kraken2 - https://www.nature.com/articles/s41596-022-00738-y
-Bracken
+Bracken  
 
 ### Clustering/Denoising Algorithm
-DADA2
-Uclust
-UNOISE
-Deblur
+DADA2  
+Uclust  
+UNOISE  
+Deblur  
 
 ### Abundance filtering algorithms
 
 
 ### Genetic Marker Databases
-Unite
-GreenGenes
-Ribosomal Database Project - RDP
-Silva
-16S-ITGDB
+Unite  
+GreenGenes  
+Ribosomal Database Project - RDP  
+Silva  
+16S-ITGDB  
 
 ### References:
 Overview of barcode markers and major reference libraries:  
